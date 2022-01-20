@@ -1,7 +1,7 @@
 
 
 <div align = "center">
-<a href="https://kkh1902.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/> <a href="https://www.notion.so/kkh1902-d4340f6dfdce4c30a41750d82281cebd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <a href="mailto:hunjyhunji@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://kkh1902.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/> <a href="https://www.notion.so/https://www.notion.so/f1b52d093ddc4c4bbab6d94ae7248a1b"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <a href="mailto:hunjyhunji@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### 👋 Hi there 👋
 I'm Junior Developer. Keep steadily!!
