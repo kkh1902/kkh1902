@@ -8,16 +8,26 @@
 ### 👋 Hi there 👋
 I'm Junior Developer. steadily!!
 
-### 🛠 Skills 🛠
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></br>
-
-### 📖 Languages 📖
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></br>
-
-
-### 🤔 Also Interested in.. 🤔
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-6DB33F?style=flat-square&logoColor=white"/>
+<div align="center">   
+  <h2>🛠️ Tech Stack 🛠️</h2>
+  <h3>BackEnd</h3>
+  <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
+  <h3>FrontEnd</h3>
+  <img src="https://img.shields.io/badge/HTML-EA9A56?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-288CD2?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-B750EA?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mustache-FF6464?style=flat-square&logo=Handlebars.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Thymeleaf-288C28?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
+  <h3>DevOps</h3>
+  <img src="https://img.shields.io/badge/Linux-3c3c3c?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/aws-3C5087?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+ <br/><br/><br/>
 
 ![kkh1902's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh1902&show_icons=true&theme=radical)</br>
 [![Solved.ac
