@@ -123,11 +123,11 @@ Kaggle API → GCS (raw) → Apache Spark → GCS (processed) → BigQuery → d
 ## My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kkh1902&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Gihun Kim's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=kkh1902&theme=radical&hide_border=true" alt="Gihun Kim's GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkh1902&layout=compact&theme=radical&hide_border=true" alt="Gihun Kim's Most Used Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkh1902&theme=redical&hide_border=true" alt="Gihun Kim's GitHub Activity Graph" />
 </p>
 
 ## Connect with Me
