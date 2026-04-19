@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Gihun+Kim.;Steadily+growing+as+a+Data+Engineer+%F0%9F%9A%80)](https://github.com/kkh1902)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Gihun+Kim.;Steadily+growing+as+an+AI+Engineer)](https://github.com/kkh1902)
 
 ## Sections
 - [Overview](#overview)
@@ -10,11 +10,11 @@
 
 ## Overview
 
-My name is **Gihun Kim**. I am a **Junior Data Engineer** passionate about building end-to-end data pipelines and cloud-based data platforms. 👨‍💻
+My name is **Gihun Kim**. I am an **AI Engineer** building AI-powered products end-to-end — from data pipelines and model integration to production-ready web applications. 👨‍💻
 
-I enjoy working with modern open-source tools to collect, process, and analyze large-scale data — turning raw event logs into actionable business insights. 🔍
+I enjoy combining **LLMs, retrieval systems, and modern web stacks** to turn raw data into useful, real-world products. 🔍
 
-I am especially interested in **pipeline orchestration**, **data warehouse modeling**, and **cloud infrastructure automation**. ✨
+I am especially interested in **LLM application architecture**, **RAG / agents**, **data platforms for AI**, and **shipping AI features on the web (Next.js + Vercel)**. ✨
 
 > [!IMPORTANT]
 > Feel free to explore my work in my **[GitHub repositories](https://github.com/kkh1902?tab=repositories)**!
@@ -24,12 +24,44 @@ I am especially interested in **pipeline orchestration**, **data warehouse model
 A brief overview of the technologies I have hands-on experience with 🧩
 
 <details>
+<summary><strong>🤖 AI / LLM</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude"></li>
+    <li><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"></li>
+    <li><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"></li>
+    <li><img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex"></li>
+    <li><img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK"></li>
+    <li><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></li>
+    <li><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"></li>
+    <li>RAG · Agents · Tool Use · Prompt Engineering · Fine-tuning · MCP</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🌐 Web / App (AI Product)</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></li>
+    <li><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></li>
+    <li><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></li>
+    <li><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></li>
+    <li><img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"></li>
+    <li><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></li>
+    <li><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></li>
+    <li><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"></li>
+</ul>
+
+</details>
+
+<details>
 <summary><strong>⚙️ Data Engineering</strong></summary>
 
 <ul>
-    <li><img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"></li>
-    <li><img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"></li>
-    <li><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
     <li><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"></li>
     <li><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"></li>
 </ul>
@@ -54,9 +86,11 @@ A brief overview of the technologies I have hands-on experience with 🧩
 
 <ul>
     <li><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></li>
+    <li><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></li>
     <li><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"></li>
-    <li><img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=java&logoColor=white" alt="Java"></li>
+    <li><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
     <li><img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></li>
+    <li>Vector DBs: pgvector · Pinecone · Chroma · Weaviate</li>
 </ul>
 
 </details>
@@ -78,10 +112,10 @@ Kaggle API → GCS (raw) → Apache Spark → GCS (processed) → BigQuery → d
 ```
 
 **Key Highlights:**
-- Terraform으로 GCP 리소스 자동 프로비저닝
-- Airflow + SparkSubmitOperator로 워크플로우 오케스트레이션
-- dbt로 전환 퍼널(view → cart → purchase) 3단계 데이터 모델링
-- Looker Studio 대시보드로 카테고리/브랜드별 전환율 시각화
+- Automated GCP resource provisioning with Terraform
+- Workflow orchestration with Airflow + SparkSubmitOperator
+- 3-stage funnel data modeling with dbt (view → cart → purchase)
+- Looker Studio dashboard visualizing conversion rates by category / brand
 
 👉 [GitHub Repository](https://github.com/kkh1902/User-Behavior-Analytics-Pipeline)
 
