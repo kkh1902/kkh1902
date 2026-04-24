@@ -34,7 +34,11 @@ A brief overview of the technologies I have hands-on experience with 🧩
     <li><img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK"></li>
     <li><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></li>
     <li><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"></li>
-    <li>RAG · Agents · Tool Use · Prompt Engineering · Fine-tuning · MCP</li>
+    <li><img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"></li>
+    <li><img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white" alt="RAG"></li>
+    <li><img src="https://img.shields.io/badge/Agents-FF6F61?style=flat-square&logo=probot&logoColor=white" alt="Agents"></li>
+    <li><img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering"></li>
+    <li><img src="https://img.shields.io/badge/Fine--tuning-2ECC71?style=flat-square&logo=huggingface&logoColor=white" alt="Fine-tuning"></li>
 </ul>
 
 </details>
@@ -62,7 +66,7 @@ A brief overview of the technologies I have hands-on experience with 🧩
     <li><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
-    <li><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"></li>
+    <li><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logoColor=white" alt="dbt"></li>
     <li><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"></li>
 </ul>
 
@@ -73,7 +77,7 @@ A brief overview of the technologies I have hands-on experience with 🧩
 
 <ul>
     <li><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"></li>
-    <li><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"></li>
+    <li><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"></li>
     <li><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></li>
     <li><img src="https://img.shields.io/badge/Linux-3c3c3c?style=flat-square&logo=linux&logoColor=white" alt="Linux"></li>
@@ -87,10 +91,13 @@ A brief overview of the technologies I have hands-on experience with 🧩
 <ul>
     <li><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></li>
     <li><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></li>
-    <li><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"></li>
+    <li><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"></li>
     <li><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
     <li><img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></li>
-    <li>Vector DBs: pgvector · Pinecone · Chroma · Weaviate</li>
+    <li><img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"></li>
+    <li><img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"></li>
+    <li><img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square&logo=chromadb&logoColor=white" alt="Chroma"></li>
+    <li><img src="https://img.shields.io/badge/Weaviate-00C7B7?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate"></li>
 </ul>
 
 </details>
